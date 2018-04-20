@@ -1,0 +1,17 @@
+# Great Salt Lake, Forest Fire Recovery, and Oral Mycobiome Data Analyses
+
+### Structure
+
+./
+Raw_data/
+Cleaning_and_subsetting/
+
+Project Name/
+	Cleaning_code.R
+	Analyses.R
+
+	A. Data/
+		i. Raw/
+		ii. Working/
+	B. Output/
+		i. Figures/
